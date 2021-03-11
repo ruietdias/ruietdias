@@ -11,7 +11,7 @@ I immersed myself in the world of Microsoft Dynamics 365 and now I'm a Microsoft
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 Keep an eye on my blog where I share cool things I learn along the way.\
-<a href="http://ruidias.net" target="_blank"><img src="https://img.shields.io/badge/ruidias.net-21759B?style=for-the-badge&logo=https://simpleicons.org/icons/dynamics365.svg&logoColor=white" /></a>
+<a href="http://ruidias.net" target="_blank"><img src="https://img.shields.io/badge/ruidias.net-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 
 📫 How to reach me:\
 <a href="https://www.linkedin.com/in/ruietdias/" alt="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
