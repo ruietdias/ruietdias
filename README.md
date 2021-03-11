@@ -18,5 +18,5 @@ Keep an eye on my blog where I share cool things I learn along the way.\
 <a href="mailto:ruietdias@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://img.shields.io/badge/aaa-002050?style=for-the-badge&logo=dynamics365&logoColor=white" /></a>
-[![forthebadge](https://forthebadge.com/images/badges/approved-by-veridian-dynamics.svg)](https://forthebadge.com)
+[![forthebadge](https://simpleicons.org/icons/dynamics365.svg)](https://forthebadge.com)
 
