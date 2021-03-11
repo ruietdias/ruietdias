@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rui 
 
-I'm an experienced frontend developer always ready to learn more and embrace new challenges.
+I'm a frontend developer always ready to learn more and embrace new challenges.
 
 I immersed myself in the world of Microsoft Dynamics 365 and now I'm a Microsoft Power Platform developer and solutions architect.
 
