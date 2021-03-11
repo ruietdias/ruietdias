@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm Rui 
 
 I'm an experienced frontend developer always ready to learn more and embrace new challenges.\
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
 I immersed myself in the world of Microsoft Dynamics 365 and now I'm a Microsoft Power Platform developer and solutions architect.\
