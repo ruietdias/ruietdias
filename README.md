@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Rui 
 
-<!--
-**ruietdias/ruietdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced frontend developer always ready to learn more and embrace new challenges.
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I immersed myself in the world of Microsoft Dynamics 365 and now I'm a Microsoft Power Platform developer and solutions architect.
+
+Keep an eye on my blog <http://ruidias.net> where I share cool things I learn along the way.
+
+📫 How to reach me:
+<a href="https://www.linkedin.com/in/ruietdias/" alt="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/Connect-blue?logo=linkedin&style=plastic" /></a>
+<a href="mailto:ruietdias@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-grey?logo=gmail&style=plastic" /></a>
